@@ -182,9 +182,7 @@ const riyaji = {
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=riyajidevindu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=riyajidevindu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
@@ -198,9 +196,7 @@ const riyaji = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riyajidevindu&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=riyajidevindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
