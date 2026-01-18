@@ -182,11 +182,9 @@ const riyaji = {
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=riyajidevindu&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=riyajidevindu&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=riyajidevindu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </picture>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=riyajidevindu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <!-- Activity Graph -->
@@ -200,11 +198,9 @@ const riyaji = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=riyajidevindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=riyajidevindu&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=riyajidevindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-  </picture>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=riyajidevindu&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
