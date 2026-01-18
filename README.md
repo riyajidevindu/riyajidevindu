@@ -182,7 +182,7 @@ const riyaji = {
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=riyajidevindu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight-beta.vercel.app/?user=riyajidevindu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
