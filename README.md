@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;Full-Stack+Developer+%26+AI+Engineer+🚀;Building+intelligent+applications+🤖;Java+|+Python+|+.NET+Developer+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%26+AI+Engineer;Building+intelligent+applications;Java+%7C+Python+%7C+.NET+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -168,13 +168,25 @@ const riyaji = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyajidevindu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajidevindu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=riyajidevindu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=riyajidevindu&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=riyajidevindu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riyajidevindu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riyajidevindu&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riyajidevindu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  </picture>
 </p>
 
-<!-- Alternative Stats using github-readme-streak-stats -->
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=riyajidevindu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=riyajidevindu&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=riyajidevindu&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=riyajidevindu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </p>
 
 <!-- Activity Graph -->
@@ -188,7 +200,11 @@ const riyaji = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyajidevindu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=riyajidevindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=riyajidevindu&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=riyajidevindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  </picture>
 </p>
 
 ---
